@@ -1,4 +1,4 @@
-package com.regency.designpattern.desinpattern;
+package com.regency.designpattern;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

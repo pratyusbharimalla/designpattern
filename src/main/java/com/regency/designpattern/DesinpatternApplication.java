@@ -1,4 +1,4 @@
-package com.regency.designpattern.desinpattern;
+package com.regency.designpattern;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,6 +8,7 @@ public class DesinpatternApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DesinpatternApplication.class, args);
+		System.out.println("---Welcome to Design pattern---");
 	}
 
 }
